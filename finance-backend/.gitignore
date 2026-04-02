@@ -1,0 +1,12 @@
+# 🔐 Environment variables (VERY IMPORTANT)
+.env
+
+# 📦 Node modules
+node_modules/
+
+# 🚀 Build files
+dist/
+build/
+
+
+
